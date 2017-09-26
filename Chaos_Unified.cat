@@ -7633,7 +7633,7 @@
           <infoLinks/>
           <modifiers/>
           <constraints>
-            <constraint field="selections" scope="parent" value="10.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c61e-bddd-b126-d26a" type="min"/>
+            <constraint field="selections" scope="parent" value="7.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c61e-bddd-b126-d26a" type="min"/>
             <constraint field="selections" scope="parent" value="30.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1b13-d104-806d-baca" type="max"/>
           </constraints>
           <categoryLinks/>
